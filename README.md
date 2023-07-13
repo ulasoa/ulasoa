@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ulasoa
 - 👀 I’m interested in codes
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on no one
 - 📫 How to reach me :discord @ulasoa
 - 😉linktr.ee/ulasoa
 

@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on no one
 - 📫 How to reach me :discord @ulasoa
-- 😉 linktr.ee/ulasoa
+- 😉 hatta://linktr.ee/ulasoa
 - 🤔 If you see bug in my codes write Discord: https://discord.com/invite/rUBk34mBSa
 Channel: bug-report
 

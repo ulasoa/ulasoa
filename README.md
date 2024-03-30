@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on no one
 - 📫 How to reach me :discord @ulasoa
 - 😉 https://linktr.ee/ulasoa
-- 🤔 If you see bug in my codes write to ky DM
+- 🤔 If you see bug in my codes write to my DM
 
 <!---
 ulasoa/ulasoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

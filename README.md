@@ -5,6 +5,7 @@
 - 📫 How to reach me :discord @ulasoa
 - 😉 https://linktr.ee/ulasoa
 - 🤔 If you see bug in my codes write to my DM
+- 🃏 I am currently also interested in music.
 
 <!---
 ulasoa/ulasoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
